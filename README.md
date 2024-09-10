@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full-stack Web Development
 - 💞️ I’m looking to collaborate on Programming and problem solving tasks
 - 📫 How to reach me: joshuamithamo6@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: The term “bug” in computer science originated from a real insect found in the Harvard Mark II electromechanical computer in 1947. This incident led to the term “computer bug” being coined.
 
 <!---
