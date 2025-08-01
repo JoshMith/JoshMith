@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshMith
-- 👀 I’m a Sofware Developer
+- 👀 I’m a Software Developer
 - 🌱 I’m currently practicing Full-stack Web Development
 - 💞️ I’m looking to collaborate on Programming and problem solving tasks
 - 📫 How to reach me: joshuamithamo6@gmail.com
