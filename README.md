@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
-I'm a final-year BSc Information Technology student at **Dedan Kimathi University of Technology** with a passion for building impactful solutions using modern web technologies and machine learning.
+I'm a BSc Information Technology student from **Dedan Kimathi University of Technology** (awaiting graduation ceremony) with a passion for building impactful solutions using modern web technologies and machine learning.
 
 ### 💼 What I Do
 
@@ -51,19 +51,19 @@ I'm a final-year BSc Information Technology student at **Dedan Kimathi Universit
 
 ### 🎯 Featured Projects
 
-#### 🏥 [DigiHeal-Hub](https://github.com/JoshMith/digiheal-hub) *(Capstone Project)*
+#### 🏥 [DigiHeal-Hub](https://digiheal-hub.vercel.app)
 AI-powered healthcare management system for DKUT Medical Center
 - **Tech:** React, TypeScript, Node.js, PostgreSQL, Python Flask, scikit-learn
 - **Features:** ML-based consultation duration prediction, patient management, appointment scheduling
 - **Impact:** Optimizes scheduling and reduces wait times through predictive analytics
 
-#### ⛪ [Christian Biodata Management System (CBMS)](https://cbms.adnyeri.org)
+#### ⛪ [Christian Biodata Management System (CBMS)](https://christian-biodata.vercel.app)
 Comprehensive sacramental records management platform for Archdiocese of Nyeri
 - **Tech:** Angular, Node.js/TypeScript, MySQL
 - **Features:** Multi-parish management, automated certificate generation, role-based access
 - **Impact:** Digitized decades of paper records, serving entire archdiocese
 
-#### 📚 MathCode Academy
+#### 📚 [MathCode Academy](https://mathcodeacademy.vercel.app)
 Educational platform for teaching programming mathematics
 - **Tech:** React, Node.js, MongoDB
 - **Features:** Multiple learning tracks (Algorithms, Data Science, ML/AI, Cybersecurity)
@@ -75,10 +75,6 @@ Educational platform for teaching programming mathematics
 
 <div align="center">
   
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshMith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMith&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshMith&theme=radical&hide_border=true)
 
 </div>
