@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
-I'm a BSc Information Technology student from **Dedan Kimathi University of Technology** (awaiting graduation ceremony) with a passion for building impactful solutions using modern web technologies and machine learning.
+I'm a BSc Information Technology graduate from **Dedan Kimathi University of Technology** (awaiting graduation ceremony) with a passion for building impactful solutions using modern web technologies and machine learning.
 
 ### 💼 What I Do
 
